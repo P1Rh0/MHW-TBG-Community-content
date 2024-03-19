@@ -3,6 +3,7 @@ A place to collate all the community made content for Monster Hunter World: The 
 
 ## Mods
 [Campaign expansion by Geko_X](https://geko-x.github.io/MHW-Campaign-Expansion/)
+
 [Elemental dice by Flohsors](https://docs.google.com/document/d/1a2w1zj-MBEXUsVmVlBr-YyV7mxyRuGNF5ircpiUGnDI/edit?usp=drivesdk)
 
 ## Assets
