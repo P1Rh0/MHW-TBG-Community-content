@@ -3,8 +3,18 @@ A place to collate all the community made content for Monster Hunter World: The 
 
 ## Mods
 [Campaign expansion by Geko_X](https://geko-x.github.io/MHW-Campaign-Expansion/)
+- System to play the board game as more of a TTRPG, with someone acting as a Game Master (GM)
+- Overhauls the campaign progression to add:
+  - Forge and canteen upgrades and unlocks
+  - A bounty system
+  - Palico use and progression for all 4 hunters
+  - Material exchange and purchase
+  - Item backports and Turf Wars from the Iceborne Board Game
 
 [MHW modifications by Flohsors](https://docs.google.com/document/d/1a2w1zj-MBEXUsVmVlBr-YyV7mxyRuGNF5ircpiUGnDI/edit?usp=drivesdk)
+- Custom Time Deck Shuffling: create a balanced deck of time cards for every encounter, or tweak the deck more in your favour or make it more challenging.
+- Elemental Dice: Change the way weapons deal elemental damage to be akin to how elemental damage works in the videogame. Deal elemental damage instantly and on each attack.
+- Status Dice: Change the way weapons deal status ailments to be more akin to how this works in the videogame. Instead of tying this type of ailment to certain cards and triggering the buildup everytime, the dice provide a slightly more randomised approach.
 
 ## Assets
 [Boards, mats, errata, player aids and more! by GeckoTH](https://tinyurl.com/MH-World-GTH)
