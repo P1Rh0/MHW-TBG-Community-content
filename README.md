@@ -9,8 +9,7 @@ A place to collate all the community made content for Monster Hunter World: The 
   - A bounty system
   - Palico use and progression for all 4 hunters
   - Material exchange and purchase
-  - Item backports from the Iceborne Board Game
-
+  - Item backports and Turf Wars from the Iceborne Board Game
 
 [MHW modifications by Flohsors](https://docs.google.com/document/d/1a2w1zj-MBEXUsVmVlBr-YyV7mxyRuGNF5ircpiUGnDI/edit?usp=drivesdk)
 - Custom Time Deck Shuffling: create a balanced deck of time cards for every encounter, or tweak the deck more in your favour or make it more challenging.
