@@ -20,3 +20,6 @@ A place to collate all the community made content for Monster Hunter World: The 
 [Boards, mats, errata, player aids and more! by GeckoTH](https://tinyurl.com/MH-World-GTH)
 
 [High res close ups of monsters from the various games. Free through Ko-Fi](https://ko-fi.com/s/810e529ff7)
+
+## Companion apps
+[Sammy's MHW-TBG companion app (Web)](https://gapro.work/mhw/)
