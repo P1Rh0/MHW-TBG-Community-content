@@ -16,6 +16,10 @@ A place to collate all the community made content for Monster Hunter World: The 
 - Elemental Dice: Change the way weapons deal elemental damage to be akin to how elemental damage works in the videogame. Deal elemental damage instantly and on each attack.
 - Status Dice: Change the way weapons deal status ailments to be more akin to how this works in the videogame. Instead of tying this type of ailment to certain cards and triggering the buildup everytime, the dice provide a slightly more randomised approach.
 
+[Decorations mod by P1Rh0](https://github.com/P1Rh0/MHW-TBG-Decorations-Mod)
+- Adds feystone drops which can be appraised into decorations
+- Adds a slot system to allow you to equip decorations to use on quests
+
 ## Assets
 [Boards, mats, errata, player aids and more! by GeckoTH](https://tinyurl.com/MH-World-GTH)
 
