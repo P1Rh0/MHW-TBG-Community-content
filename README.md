@@ -25,5 +25,9 @@ A place to collate all the community made content for Monster Hunter World: The 
 
 [High res close ups of monsters from the various games. Free through Ko-Fi](https://ko-fi.com/s/810e529ff7)
 
+[Information for quest assets - Zugzwang](https://docs.google.com/spreadsheets/d/1EHNDHJMgGAAyNRJuNqHEbAL1jIQL8qpuhoJgBESTJzc/edit?usp=sharing)
+
+[MHWI BG Monster Data - Zugzwang](https://docs.google.com/spreadsheets/d/1ef4ZEoP0sdV0aGdGRSIyrIfuIjC0_D2s-aEy7UY9B84/edit?usp=sharing)
+
 ## Companion apps
 [Sammy's MHW-TBG companion app (Web)](https://gapro.work/mhw/)
