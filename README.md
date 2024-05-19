@@ -20,7 +20,7 @@ A place to collate all the community made content for Monster Hunter World: The 
 - Adds feystone drops which can be appraised into decorations
 - Adds a slot system to allow you to equip decorations to use on quests
 
-## Mod Development
+## Mod development
 [Zugzwang's Homebrew Stuff](https://docs.google.com/document/d/1XiCAglZdAjnTKJq8BKGCy1aVcPDSJUok3Lb5LPyx32A/edit?usp=sharing)
 - Templates for cards
 - Tables of reference data
