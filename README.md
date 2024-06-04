@@ -20,14 +20,18 @@ A place to collate all the community made content for Monster Hunter World: The 
 - Adds feystone drops which can be appraised into decorations
 - Adds a slot system to allow you to equip decorations to use on quests
 
+## Mod development
+[Zugzwang's Homebrew Stuff](https://docs.google.com/document/d/1XiCAglZdAjnTKJq8BKGCy1aVcPDSJUok3Lb5LPyx32A/edit?usp=sharing)
+- Templates for cards
+- Tables of reference data
+- Development notes on WIP mods 
+
 ## Assets
 [Boards, mats, errata, player aids and more! by GeckoTH](https://tinyurl.com/MH-World-GTH)
 
 [High res close ups of monsters from the various games. Free through Ko-Fi](https://ko-fi.com/s/810e529ff7)
 
-[Information for quest assets - Zugzwang](https://docs.google.com/spreadsheets/d/1EHNDHJMgGAAyNRJuNqHEbAL1jIQL8qpuhoJgBESTJzc/edit?usp=sharing)
-
-[MHWI BG Monster Data - Zugzwang](https://docs.google.com/spreadsheets/d/1ef4ZEoP0sdV0aGdGRSIyrIfuIjC0_D2s-aEy7UY9B84/edit?usp=sharing)
+[High res gameplay screenshots of monsters and locations from MHW and MHW:IB. Free through Ko-Fi](https://ko-fi.com/album/Monster-Hunter-World-Q5Q7WVRY5)
 
 ## Companion apps
 [Sammy's MHW-TBG companion app (Web)](https://gapro.work/mhw/)
