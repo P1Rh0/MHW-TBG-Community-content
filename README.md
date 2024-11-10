@@ -40,3 +40,6 @@ A place to collate all the community made content for Monster Hunter World: The 
 
 ## Companion apps
 [Sammy's MHW-TBG companion app (Web)](https://gapro.work/mhw/)
+
+## Painting Tutorials
+[Playlist by Sir River recommended by Zugzwang](https://www.youtube.com/playlist?list=PL5UvHDPuu2fQPBHF_K6neLoh81bw6IyzB)
