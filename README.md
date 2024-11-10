@@ -20,6 +20,11 @@ A place to collate all the community made content for Monster Hunter World: The 
 - Adds feystone drops which can be appraised into decorations
 - Adds a slot system to allow you to equip decorations to use on quests
 
+[Endemic life by knuckles904](https://docs.google.com/document/d/1p3k5o6x7Hn17PS5uJdM63IQpHlbyU8nb3mkg5OWJYnA/edit?usp=drivesdk)
+- Replaces the toads, poisoncup, boulder and vespoid time cards in the base game with more interactive versions (no more coin flip for good & bad result).
+- Adds flashfly, vigorwasp, and cactuar time cards.
+- Introduces a way to randomly spawn these Endemic Life on the board, and an additional player action "the kick" to activate environmental effects.
+
 ## Mod development
 [Zugzwang's Homebrew Stuff](https://docs.google.com/document/d/1XiCAglZdAjnTKJq8BKGCy1aVcPDSJUok3Lb5LPyx32A/edit?usp=sharing)
 - Templates for cards
