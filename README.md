@@ -39,7 +39,7 @@ A place to collate all the community made content for Monster Hunter World: The 
 [High res gameplay screenshots of monsters and locations from MHW and MHW:IB. Free through Ko-Fi](https://ko-fi.com/album/Monster-Hunter-World-Q5Q7WVRY5)
 
 ## Companion apps
-[Sammy's MHW-TBG companion app (Web)](https://gapro.work/mhw/)
+[Sammy's MHW-TBG companion app (Web)](https://gapro.cc/mhw/)
 
 ## Painting Tutorials
 [Playlist by Sir River recommended by Zugzwang](https://www.youtube.com/playlist?list=PL5UvHDPuu2fQPBHF_K6neLoh81bw6IyzB)
